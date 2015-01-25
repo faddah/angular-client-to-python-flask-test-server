@@ -29,5 +29,5 @@ v0.1a
 
 ©2015 by Faddah Steve Yuetsu Wolf
 
-[faddah on Github](https://github.com/faddah)
-[@yuetsu on Twitter](http://twitter.com/yuetsu)
+* [faddah on Github](https://github.com/faddah)
+* [@yuetsu on Twitter](http://twitter.com/yuetsu)
